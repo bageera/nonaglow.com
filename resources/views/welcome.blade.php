@@ -62,6 +62,7 @@
                         <a href="https://www.facebook.com/people/Nona-Glow/100013389963910"><i class="social social-facebook"></i></a>
                         <a href="https://www.instagram.com/lakenonaglow/"><i class="social social-instagram"></i></a>
                     </p>
+                    <p>You may also call us at <a href="tel:407-674-9280">+1 (407) 674-9280</a></p>
                 </div>
 
                 <div class="mastfoot">
